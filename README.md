@@ -1,5 +1,5 @@
 ### DEVICT
-French student and junior developer, I'll upload all my projects on my github.
+French cybersecurity student . Junior developer.
 
 <!--
 **devictgit/devictgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
